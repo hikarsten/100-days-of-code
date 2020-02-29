@@ -17,3 +17,6 @@
 	* extremely popular, and free, code editor
 * [#100DaysOfCode Official Website  | #100DaysOfCode](https://www.100daysofcode.com/)
 	* a methodology of studying coding for 100 days and journaling your progress in Github
+
+### Additional Resources
+* [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
